@@ -4,7 +4,7 @@
 # **_Data Extraction for Stable Isotope-labelled metabolites analysed by GC-MS_**
 
 
-DExSI is an interactive graphical software package which can be used to rapidly quantitate isotopologues for a wide variety of metabolites detected by GC/MS. DExSI performs targeted automated metabolite identification, isotopologue mass (fractional labelling) and abundance determination and natural isotope abundance correction. DExSI provides a range of output options (i.e. tables, graphs and heatmaps) and is suitable for high throughput analyses.
+DExSI is an interactive graphical software package which can be used to rapidly quantitate isotopologues for a wide variety of metabolites detected by gas chromatography-mass spectrometry (GC/MS). DExSI performs targeted automated metabolite identification, isotopologue mass (fractional labelling) and abundance determination and natural isotope abundance correction. DExSI provides a range of output options (i.e. tables, graphs and heatmaps) and is suitable for high throughput analyses.
 
 As DExSI is designed to detect metabolites irrespective of the extent of isotopic labelling, this software may also be used to perform targeted analysis on unlabelled data sets.  
 
