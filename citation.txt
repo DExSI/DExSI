@@ -1,1 +1,1 @@
-Dagley, M. J. and McConville, M. J. (2018) DExSI: A new tool for the rapid quantitation of 13C-labelled metabolites detected by GC-MS.  Bioinformatics.  
+Dagley, M. J. and McConville, M. J. (2018) DExSI: A new tool for the rapid quantitation of 13C-labelled metabolites detected by GC-MS.  Bioinformatics, bty025, https://doi.org/10.1093/bioinformatics/bty025.
