@@ -1,3 +1,4 @@
+
 ![alt text](https://github.com/DExSI/DExSI/raw/master/images/DExSI_header.png "DExSI")
 
 
@@ -13,10 +14,13 @@ As DExSI is designed to detect metabolites irrespective of the extent of isotopi
 **By using DExSI, you agree to cite the following paper in all publications which use the software, as stated in the 'Licence.txt' file:**
 ```
 Dagley, M. J. and McConville, M. J. (2018) 
- DExSI: A new tool for the rapid quantitation of 13C-labelled metabolites detected by GC-MS.  Bioinformatics.  
+ DExSI: A new tool for the rapid quantitation of 13C-labelled metabolites detected by GC-MS.
+ Bioinformatics, bty025, https://doi.org/10.1093/bioinformatics/bty025.
 ```
 
 *DExSI is made available without charge for non-commercial use only*.  See the [Licence.txt](https://github.com/DExSI/DExSI/blob/master/Licence.txt) file for details.
+
+The open access paper is available from [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty025/4816793).  
 
 ## Getting Started
 
