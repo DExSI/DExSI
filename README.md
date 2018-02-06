@@ -36,9 +36,9 @@ DExSI requires:
 
 ### Installing
 
-Download the **latest version** of DExSI (Version 1.10) from the link below:  
+Download the **latest version** of DExSI (Version 1.11) from the link below:  
 
-  [DExSI v.1.10](https://github.com/DExSI/DExSI/releases/download/v1.10/DExSI_setup.exe)  
+  [DExSI v.1.11](https://github.com/DExSI/DExSI/releases/download/v1.11/DExSI_setup.exe)  
 
 Run **'DExSI_setup.exe'** with Administrator rights.
 
@@ -96,7 +96,7 @@ If you edit these files, it is recommended that you save your modified copy in a
 
 ## Previous Versions
 
-The first public version of DExSI is version 1.10.
+The first public version of DExSI is version [1.10](https://github.com/DExSI/DExSI/releases/download/v1.10/DExSI_setup.exe).
 
 ## Authors
 
